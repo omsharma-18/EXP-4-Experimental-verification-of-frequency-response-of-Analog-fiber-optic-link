@@ -26,6 +26,10 @@ The function of the receiver is to convert the optical energy into electrical fo
  
 current flows through its emitter generating the voltage across the resistance connected between emitter and ground. This voltage is the duplication of the transmitted electrical signal, which can be amplified.
 
+---
+
+## BLOCK DIAGRAM
+<img width="723" height="423" alt="image" src="https://github.com/user-attachments/assets/323eb974-7a4c-4e1f-a286-b5d6cddf7ead" />
 
 
 ---
@@ -77,6 +81,11 @@ current flows through its emitter generating the voltage across the resistance c
 ---
 
 ## MODEL GRAPH
+
+<img width="838" height="431" alt="image" src="https://github.com/user-attachments/assets/5ca595db-3956-4dfb-8459-5fc22549d9e2" />
+
+---
+## GRAPH
 
 ![photo_2026-03-22_18-22-50](https://github.com/user-attachments/assets/923a277a-4c13-41cd-9926-7355ef65f43c)
 
